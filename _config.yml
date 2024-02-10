@@ -23,8 +23,8 @@ email: georges.dupond@ik.me
 description: >- # this means to ignore newlines until "baseurl:"
   Je suis passionné par l'informatique et actuellement en formation en BTS SIO. 
   Découvrez ici mon profil et mes projets.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://laurentbouquet.github.io/portfolio2/"
+baseurl: "/portfolio2" # the subpath of your site, e.g. /blog
+url: "https://laurentbouquet.github.io/portfolio2"
 twitter_username: gdupond
 github_username:  LaurentBouquet
 
