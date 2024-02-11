@@ -12,4 +12,4 @@ permalink: /contact/
 
 Tél. : 06.78.90.12.34
 
-Email : georges.dupond@ik.me
+Email : [georges.dupond@ik.me](georges.dupond@ik.me)
